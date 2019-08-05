@@ -1,7 +1,0 @@
-This is a test file to perform the following activities:
-1.push the file
-2.commit the file
-3. compare the file (for the 2nd time)
-4. push the file
-5. commit the file
-6. End of Changes
